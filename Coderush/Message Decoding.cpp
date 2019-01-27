@@ -1,0 +1,15 @@
+#include<stdio.h>
+main()
+{
+    scanf("%d",&n);
+    for(i=0;i<n;i++)
+    {
+        scanf("%d",&a);
+        scanf("%s",&x);
+        while(x[j]!='\0')
+        {
+            if()
+            j++;
+        }
+    }
+}

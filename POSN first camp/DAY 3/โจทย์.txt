@@ -1,0 +1,31 @@
+1. abs x
+2. x even or odd
+3. x -> 0-9 กี่ตัว
+4. 1-100 3 หารลงตัวไร กี่ตัว
+5. รับ 20 ตัว หา min max av sum
+6. รับเรื่อยๆจนกว่าจะเจอ 999 หา min max av sum
+7. รับ x x < 25 print A->Z
+8. x x< 500 print A ->Z -> A
+9.รับ n,ch 		ex. 5,E print EFGHI
+10. รับ x<9 
+ex 7
+ 1 2 3 4 5 6 7
+ 2 3 4 5 6 7 1
+ 3 4 5 6 7 1 2
+ 4 5 6 7 1 2 3
+ 5 6 7 1 2 3 4
+ 6 7 1 2 3 4 5
+ 7 1 2 3 4 5 6
+
+
+
+
+
+
+SPECIAL !!!!
+รับ char รับ int
+EX ABC 2
+       CEF 
+       A B C 2
+       C E F 
+ถ้าเจอ Z วนมา A

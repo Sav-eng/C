@@ -1,0 +1,1498 @@
+499
+11
+20 n s n s e w w w p p w n w w s e e p w e 
+20 n e n s p p n w w p e n p n p e n n p e 
+12
+21 p s w e e e w n s w w p s n p p s p n n p 
+21 p p s e s p p p w n w e n e s w w s s w w 
+18
+22 w s s w e s n w p s n n w p e n n e p n s p 
+20 n w p n n p e s n n s n e p s n e s s s 
+19
+21 n s n w s e s w s w p s p e e s p p n e p 
+22 p p s w s w w e e e e n w e e p w e s e s w 
+22
+20 s n w n n s e p w p w s e s e p n s e s 
+20 s w e s p w w e w s n w e p p s w e w w 
+23
+22 e n e e n w n w w e w n n e w s n n p e w p 
+22 w n p n p p n p w s e e w p w s s p s w s p 
+16
+20 n e e e n e e s p s e n w w e n w w e w 
+22 e s n w n s e w w e s n n p p p s n p e e p 
+10
+21 e n n e p n n s n e w e w n s e w p n s s 
+22 n p n p n s p n p s w n n p p s e n s w e e 
+20
+20 w w w s e p p e n s n w w n e p n w w e 
+21 s e w e e p e w n n s w e e n n w w n p s 
+22
+21 n p s p s s s s n s w e n n n w w s w e n 
+21 p e w p s n w e s n s w n n e e e s w s e 
+22
+21 n n p n e p n n s w p p p e e s w n p s e 
+20 p p w w s p w n s w w p w s w n s s n w 
+21
+20 w e e w n e n p p p s e s s p n e e n e 
+22 p w w n s n p s n w e w n s p s w n p e s w 
+21
+22 s w w e p n n e n s p s w p s e p s p s e s 
+22 n e p p e s n p n n p w w n s p w e e n w w 
+13
+20 p p w p e p n e p n n n w p w s s e p s 
+21 e p e p e e e w w p w w s p s p w n e n n 
+10
+22 w n s e n n n n e p n n e s n e n e e p n w 
+21 e w n s w s w w p e s p e e s e e w n n w 
+24
+22 n e p e n s e p p e n w w w s e p p s p e n 
+22 s n s s e p w w p w p s p e e e w n s e s e 
+17
+20 w n p e s w p p e s s s s e s w s p n s 
+21 s p s n w p p p s p w n e n p n e w w w w 
+20
+22 e s e n e w n p p s e s e s w p e w w s s n 
+22 e w n n n n e p p e n p w p e p s s w e e s 
+18
+21 e s w n e n e w s p s e n p e s e e w p s 
+20 p s p w n w s e p s e e n p e s s p n e 
+14
+21 p n n p n n e s w w n p n s s w n w e p w 
+21 p e p s e s n s e p n w e e e s p w n w p 
+19
+21 n w p n w w e n p p s n s n w p e s p s e 
+22 n n n p n e e e w s n s n w e p p n n w n w 
+19
+20 p w w n s s n e e w e w p n p e w e n s 
+20 w e s e s s w p p s p p n p e w e p w w 
+19
+22 n e p s p p p p e w e w n s s p n n p n e s 
+20 p n s n s w e p p w e w s p p e p e p e 
+22
+20 s n p p e s s s p w n w e p p s e e p s 
+21 w p w w s n w n s n w n e s p p p w p e w 
+24
+20 w w s s s p w p s s w e n p w p w n w s 
+20 n e e e p e p n w n s n e n w e n w s s 
+18
+20 n w n n s s w n s w w e e s p e p w w s 
+22 w n s e e n w e p n p w p p e s w n p p n n 
+20
+20 w n n w p s s e w p s w s s n p s s n s 
+22 s w s s e n n w p p s n n p e s w e p w e n 
+22
+22 n e p n p p s n p n n n w n e w p s w p w e 
+22 p p s n s e p s p n s w p e s s s w n p w p 
+19
+20 e n w e s w s w e n p n e w n p e e n s 
+21 s e w w e s p w s e p p n n w s n s n n n 
+24
+21 s p n n n w n n s e n e p e n w w w p w s 
+21 e s e s n s p w w e n n w w e n n e e s w 
+23
+20 s e s p w e e s s n n w p e e e e n n e 
+20 e p s s s n p w p p e s e s e e e n n s 
+23
+22 n e s w p s e s s n n n n n p w s e e n s e 
+20 s n e n p w s w w n p p p n s n w e p p 
+24
+22 e w p s e w s p n n e p e n p s w n w p e w 
+22 e p s p s p w w w p n s w s p e w w e w e p 
+23
+20 p n e w e w s s n n s s e p n n w w n w 
+22 n e s w w n e n p p w s e w e n s n e e e s 
+10
+22 n e e e n p p s e p n e e n w w w w w e w e 
+21 e s e s s w e s e s s e w w p e s s w p e 
+13
+22 e s p n w s n s p p s s n n e e e p s w p s 
+20 n w e w w p n n s n w p p e e e s w n s 
+10
+20 w w s w p n p p n s w e e e p n s n w s 
+20 p e s s s e e p w s p e p w w s p w n n 
+24
+21 e s e n p e s p s e s e n p n n e n n w e 
+21 s n w e n n e w n s s w e n e n e e s p n 
+10
+22 n w p e n w s e s w e n w w e n s s s p w s 
+21 e s s n s n e p p s w p s p p n e n s e w 
+12
+22 p n w p w e s s p n w p s e e p n p p p w e 
+21 p s p w w p e p e n s e p e s w p p e s n 
+11
+21 s n w w n p p s n n n e w e e e p e w s p 
+21 e e e p n n p e p w p p e n w p s w n s p 
+13
+21 e e n p n n s n p n n w e e p p p w p n n 
+21 s e e p w p p n e s e p n w s n n s s s n 
+20
+21 w w w s e p s e e n s s w w s w p s p w s 
+20 w n w p p p n w p s n w s n s s s e n p 
+23
+21 w n s p p e p s w w n p e s p n n p e n w 
+20 e p e s s e e n s e n e n e p p s e n e 
+21
+22 s n n e s p w w w s p n n p s n e e w e e s 
+22 s p w s s n n n n s w w p w n s n w w n e p 
+19
+21 p s p e w s n n e w e n w w w e s s s p e 
+22 w s n s s e w p p s s w s n w w p e s w w e 
+17
+21 n w s n w w e p w p e e n w e s e s w w p 
+22 s s n s s e p p w e n n e w w n p s p w e p 
+11
+20 e e w w e p w w p p e n w e p p n w w s 
+21 s w p e e p e n e p w s p w n n s p w w w 
+19
+22 p p e s s e n s e p w p n p p p e w p n n w 
+20 w e n e n e s s n e n s e n p n s s w w 
+10
+20 n n e s n p w s w w w p e p s w w n n w 
+21 e e e s s w e w s e w e w p w s e p e p w 
+22
+21 p w s e n s w w e e n s p s n p e p w n p 
+21 p w n s n w s s e n w p w w p w s n e w p 
+18
+22 w p s n n p n s e w w p s p p n s n p s s n 
+20 p n s p s s e e s s w n e s s w e n s n 
+21
+20 w p w p n p p e n s n p n e e e w e n s 
+21 n p w p n n e e w e w w e e e p n p e s n 
+22
+21 n e s n p n n n e p p w n s p e s n s n e 
+21 s s w e s p e s e p e s p w p e e s p p e 
+19
+21 p w n n w s n n e p e n n n e s n w e e e 
+22 s w w p p e e p e w w s n e w n e w w s e n 
+19
+20 p s p s n w s n p s e s s w p w s s s p 
+20 s e w p w s e w w n s p s e w e n p s n 
+11
+22 s w n n e s n w e w w s n n n p w w e p s n 
+20 p n n p n e s n s w p s p p p s w p n e 
+11
+22 n s p n w s p e n s p e e w n s s w p w e n 
+20 n p s s p s n w p w w s p e p w p s e s 
+22
+21 s e e s e w n w e p s s p e s w e s s n w 
+20 e e e e s n s s n w e p e e n p e s n n 
+10
+22 n w e n s s p e e e p p w n p e w e p n p n 
+22 w e s p p w w n n e s p e p w e w s e n s e 
+15
+22 n e p n p p n n n e p s w n p s n s s e s n 
+22 s p w p p n s n p n e w n e s w s n w n n e 
+13
+22 p w w e w n s p n n e w w e p n w s e w p e 
+20 n n n s w e p p w s s s n e e e n e e n 
+20
+21 e s s s w w s w n n w p e n p s n w n s e 
+20 n n e s w e p s e s n s e n e n w p e p 
+22
+22 e s p w e w s w n s w e w n s w s n e p n p 
+20 e w s w p s p n e s w n n w n w p p s n 
+16
+21 w s n w w w w p p w w s s e s s e s e w e 
+21 w n e e w n w n w e e p s n s p p w s s p 
+16
+20 s e e p e w s p n p n s p n w s p n s w 
+22 p e n p p p s n w w s s w w e n n p s w e p 
+18
+21 w e e s w s n w p n p s n n p w s p w w n 
+21 p n s s n p s s e n n e s s n w w s w n p 
+21
+22 n p p w w w w w e s n s e e w p n w s w e s 
+22 e e w n w s e p n s n s e w n w s n n w e w 
+17
+21 e w p p s n n s e n e n s w e n e w n p w 
+22 p n s w s p n p w p w w s w e s s p n s p s 
+20
+22 p e w s s n e e w w e s p w e p p p n w e s 
+20 w w s s p s s e s n e p p n s w s p w n 
+23
+22 p e e w n p s s e e w s w e n p e s p e w w 
+22 n s n e s w s n n e s n s w w e w n p w w s 
+13
+20 s e e w w n p e n e s e w w n p e n n p 
+21 p p p w n e s p e n n p s s n e p s s s w 
+13
+21 n n p s p n w p p w e e e s w n e n w n p 
+20 e n w w e n p e s w p s e w n n e e e s 
+23
+22 n e e e w s p n p e p n e p w p e e s n p s 
+20 w p e w s w s p e n n n n w w w n n n n 
+23
+21 w s n e n p s p w s p n p p n w s w s s e 
+20 e w e e e s s e n s e e n n e p w w e n 
+23
+21 s w w p w e n w s n p n w e p s e s e e p 
+21 n n e p e n w p s e n e s w n e n e e w w 
+11
+20 p w p s e p n n s n n s e n s s n s w n 
+22 p s n s s e e s s n n p p n p n w w s n n e 
+17
+21 p s s e p e n w e n s p n s s n w p p w e 
+22 n p w w s s p e p n e n s s e n s s w w p n 
+11
+21 w s n n s p e e e s p e w n s p s p w s e 
+22 e p n e p n s n p w w w e w n s p e p n w p 
+12
+22 e s n w e p s n s w w w w p n s s w n e p p 
+22 w e w w s e w n p w p n w w s p p w w p p s 
+18
+20 e e p p w e e w w s e w e p s p e s n p 
+20 s n n p w s p n p e p e p p p p w e w w 
+19
+21 w s w e w p e n s s n s p p e p s e s s p 
+22 p w e s e n n w n p p s s p p p w n n p s p 
+10
+21 e p n p n n w p e p n p s s s p w w w p w 
+21 s s p s w n e n s p e e p e w n s n e p w 
+22
+21 p p p n e w w n p w s w n p e n w e e n w 
+22 p n w e e p w n n e e n e s w s w n w p n s 
+17
+20 e n n n n n w s e w w e s w s p w e s n 
+21 p w e w n n n n n s e w e n p e p n n n s 
+22
+22 w e n p p e s p s e p p n n s e n s p w w p 
+20 e p p p w p p s s w e w p e n e s n e w 
+12
+20 p p e w e p s n n p e w n n e p s n n w 
+20 e s s n w e p e w s n p w w p n w w e p 
+23
+21 e s w s e e p p p s w s s n s n w p n p s 
+20 w s p n s p s s p e n p s n e s p p p p 
+10
+21 p p w p p w w w s n w s n w e n s n e e w 
+20 s w e p p s n s n p s n n w n s p n w e 
+17
+21 e n w p n n w s s s e w p w n s p n s p s 
+20 e p n e n e n p w w w w n n s e w n n n 
+19
+22 n w e p n n p p e p p p p e p n s w n p n p 
+21 e p p p w p n s p w w w w e w e s p n p e 
+17
+20 w w e e p p w n p s e w w s e n w s s p 
+20 w p n p w w e w s s s p w w s w s e p n 
+10
+22 n w w p s w w w n s e p s e w p p n s e w n 
+20 n p w e e w w p p e p s e e w e e p w e 
+24
+21 p s n p s s p s p e s s w p e e n s e e e 
+20 s p p n w n w n n s w n n n e s s n e n 
+16
+22 n e p s n w w s p p e p p w n p e n p s n n 
+21 w p n w p s w w w w n e e w w p n w n e n 
+18
+20 n s n n s s s w s p w n s s n p n p e n 
+22 w e n s p p p e w n w e w p n n s n s w w n 
+23
+22 n w w n s w w p w e n e w w n s n w s e n e 
+22 n n w s s w p n e n s e e e n w p w e p s s 
+14
+21 s w e n w w p s n p n s p p n p n n n s s 
+22 e w p s s n s n n w e e w w s s e p s n s w 
+11
+22 s n p s p p p w w w n n s n p e n s n p w w 
+20 w w p p n n s n w p e s p w w p e n p p 
+19
+21 e e n n w e s e p s p s n n e e w s s n e 
+22 s s n p w n s n s e w n e s p w p e n w p w 
+20
+21 p p p w n w w w p e p w s w e n p s n n e 
+22 w w p n s e e w e s s s n s e p w e s p e n 
+10
+22 n p n w s w e p n w p n n s n p s p p e s n 
+22 e p p s w s e s w e w e e p e w w s w p e n 
+11
+21 s n p s e w w e e e e w w n e e p p e s e 
+22 n w s s w n e p p w s e e s n s p p w e e w 
+17
+20 w e n e e s e p e w n p s s s p s w n w 
+22 s s n p w s p p w e s w p n w p w s s e n w 
+16
+20 n w n p p s n w s s n w w p p n n p w w 
+22 p w w s p e n n n e p n e n w e p p w n w w 
+12
+21 p s w p w s s e w s w w n p s e s n n w w 
+21 w p p n n s w w w n p n n n w n n s w w n 
+16
+21 n e p n p w s n w e n s s n p s e p s e e 
+22 e s n w n n e p s n e n w w e n w n s p s w 
+14
+21 s n s w w s s w e e n s s n p e p e s n s 
+22 n s e n w p s p s p e w n n e n n e n n w w 
+20
+20 n s n w e s s n e n w n w s e e n e s p 
+21 p p p w p n w e e n e w n w p p p w p e w 
+20
+20 e n e e n e p s w s p p e e w s e s e p 
+22 p n e p s w e e w w s p w w w e w n n n s s 
+24
+20 s p s w s w s s w s w e s w s s s w e w 
+22 s e w e n w w s w n e s w w n n w w p s s s 
+22
+22 p p w e n p w n s s s w e w p e w n w w w s 
+21 p w p w p w s w n w s e n s w n e s w e s 
+24
+22 s e p s p n n p w s e n p e e p e e p e w p 
+21 e p p w s n n w e w p n n p s n p w n e s 
+11
+20 n n p w e n p p w e e w e n n n p p e p 
+22 p e e w s n e n w n p w n s p w n s w n p p 
+11
+20 s e p p n w s s w w w e n e s n w n w p 
+22 p p n e s w w p e s w p n n n w w e s e e p 
+14
+21 s n s p n p s s p s p w e n w n s w w w s 
+22 n e p w e p s n p w p w s e w n s p e e e n 
+20
+20 e e s s e w s w p p n e s p n w w w n p 
+21 s n n s e p p s p p s e e w w p w p n w n 
+17
+20 n e w w e s p n n w n w e n w p p p p w 
+22 p p e n e w n n e w p n w e p w s p e w n e 
+21
+22 s p n e n s n p e w n w n e w n w p n e p p 
+22 p n e e n n p w s s w n e w s w w n n w s n 
+19
+22 p n n e p e p s n w s s n s p s e p p w s w 
+22 e n s s e p w e s n w s n e s p n e w n s n 
+10
+22 w s s p p s n p p p e w p n e p e s w e s e 
+20 n w s w p w e e n w s s p p s p p s p s 
+11
+21 e n e n p n w w e e s e n w p n p e n w n 
+21 e s s w n w s w e w s s s p e e s e e e w 
+10
+20 w n e e s e s n s w e w p s n s w e s s 
+22 w p w e p w w w w e w p w s e p n e s e n p 
+12
+20 n w e p w n p s s p p e e n e w p w s n 
+20 w w w e n e p p p n e w s w e e e e s w 
+12
+21 w e w n e w e w e w w w n p p n n n p n p 
+21 n n s w w n s p s e e e n s n p w w w n p 
+19
+20 s n w p s e p w p e p n n w w s p s n n 
+20 p e p n e s w e e p s w p s w s e n e w 
+20
+22 w e s w w n w n n s e w n n e n s p e w s s 
+20 p p e s p n s n n s e n s w w w w p p p 
+21
+22 p p p s n w s p p w w e w w e p p p n s s p 
+22 e p w s e n w s n e w s e s w p n s p n n w 
+18
+22 n n n w w p n e s p p e s s w w w w w n w p 
+22 n p s s s n p n s e w p s w e s s w w s w p 
+21
+22 n s n p s p e w p w w e s e n s p p e p p p 
+20 n e n e w e p s n w n n w w e e p s n w 
+23
+22 n p w e w s p p e w n w n n s p p e n p s w 
+22 n s p s s w w w e w e n n w s p e s e p s e 
+12
+21 e e n e w n n p p p w e w e w p e e n e e 
+20 w e e e w p s p w w p p p w s p e n w w 
+13
+21 p w n p w s n s w w n w n p n n p w n p w 
+20 e p e e e s w n w s e w w n w p s n n e 
+10
+20 e w e e p s n p n w n s s n s e p p w e 
+20 s e p w e w p w p w e s p e n e n w p w 
+18
+20 s s n s s n w n s n n n n n w p s n w w 
+22 w s w p s e e s w e n n s n n n n s p w s s 
+14
+20 n w n p e n e p s s w s n w e w w p e e 
+20 n s p e n e s s s e s p n w n w s n e s 
+23
+20 w s e n n s e p e s p s s e s e w e s n 
+21 w n e w w e s e s s n n w e p s p p s p e 
+17
+21 s w s n w s n n s w s s n p n s e n e p s 
+21 e e w w e p w n w p n e s e s p p p e p w 
+20
+22 p e e s p p w n w n p e s s p n e n s w p e 
+21 w p e e p w p n n n p n s p p p e n s w w 
+12
+20 n s n p n e s p e w p e e n w w p n n e 
+21 s n p p w w e p s e p s e w n n p p e n s 
+13
+20 s e e s s s n w w n e w s n n s w p n n 
+20 p n s w s p p e e n p s e s n s s p n w 
+13
+21 w e w w s s n n n p e n w s w p n n n p p 
+21 w s p e w s p s w n e p w w s s e w s n w 
+10
+21 e n n p e s s n n n w e s s p s e w p p n 
+22 w w s w s e e n w w s p e p w p n e p e p n 
+12
+20 w p e e n w p s w w e n n s n n w e w s 
+21 w w s e e e n e n p n w e e e w w s n n s 
+23
+21 s p w s e s s w p s s w p s s n w e n s n 
+20 n s p n n s s w w e p e s p n p p e e p 
+11
+22 e s e s e e p w e s n n n n s n n w p w n p 
+20 s p n s w s s s w p n p s w n n n s s e 
+17
+21 w p s e s e e w e p e p n p n e e p e e w 
+20 n e e w s w n p p s w s e p s s p p s n 
+15
+20 e e e n p p w s s s p p s n s w w s p p 
+20 e w s w e e p w e w w p e n e p e e e n 
+20
+22 n p s e e n s e e w w s e n e w s p p p n w 
+22 p n e e w s p p s w e n w s p w n n e p n e 
+22
+20 s p e n p p e e p s s e s p s w p s e s 
+22 n w p p n w e s s p s n w e s s n n p n s s 
+16
+21 n n e e w w e n n s n w n p e e e s p e s 
+21 s s s s s s s s w n e p s w p n n n s s s 
+14
+22 n p e p n p w w s w w p p w n s e p s s e p 
+21 e e e s w s p e e n e e p p s e w p n w e 
+18
+21 n n n w e p p w w s w s e s p e e s p w p 
+21 w w e e p n p p p w p s p p e s n n n p e 
+14
+21 w p s p e n p p e e n p s e p s w e n e n 
+20 n n s s s n s p n s s n s s p e w p e s 
+20
+21 e e n e e s n n e p e w n p n p w e n n p 
+20 p w w e s s e e w n e n n p w s n p w p 
+17
+20 n p w w w p n n w p n w s n p s e p e p 
+21 n w s w p n p n w n e n p w p p w s e p e 
+12
+20 p e n n n w s p p s p w p p s e p s s e 
+21 w e p n w p e p p s w e s p s n w p w s w 
+12
+22 e n p s n n w s n s p s e s p w s s n w e s 
+22 n w s e n w n w n p s n e n n w n s s s e w 
+24
+22 w n w p n w e w p s p w s n s w e p p e w e 
+20 s w w p s s w n s n p p p s e p p p e n 
+21
+20 s w s w n e e n w n p p n e e s p p n s 
+22 p p e s n n e n s p e e n n n e p e p p n w 
+15
+21 e n w e p s n e p e s e w n p s s n n e e 
+20 s w w p e n w p s n n p w s s p s s e p 
+21
+22 n s n s n s p n e s w e e e w w n n s e w s 
+22 n s n s p w p p w w n n e p s s e s w s n p 
+20
+22 w s s w e n n n e s s w n n n w e e s w w p 
+20 s s w p w s s n n p n n w p e e n w p s 
+20
+20 e s e p w w w w s n s p n s p n e n e n 
+21 n e n n p s e w s p n e p n n s w p e w n 
+19
+21 n n e w e p n n s p e e p p s w p p p w s 
+21 n n e s e w e p s s n s e n s p s s p s s 
+21
+20 s e s n w n p s p s p w s w n s e p w p 
+22 p e s e w w p w n p p e s p n e e s s e w p 
+17
+21 n w n n s p s n s e s s w e w e e e p w n 
+21 n n n w s s w w s n w n e n s s n p p n p 
+10
+22 w e w n p s p n p s e n e w p e w s e w s p 
+20 e e n e w n s p n p p w w n p p s p w s 
+21
+20 n p e n s e s n p s w s p s w s w s e s 
+21 p p p s n p s p p n p w p s w p p n s w e 
+11
+20 w e s n e e e e w p w s s p p w s n n w 
+22 w p p p w p w n p n e w n s n s s s w n e w 
+23
+22 w p e p w s n e e w s s s p e w n p n e n n 
+22 w p w w s p s n e n w w n e s s e p n s n p 
+22
+20 w p n n w e s w n n n n p p s e n e w n 
+21 p n p e n p n s w w e w p w p p s e p s w 
+20
+21 s n e e p p w e n n n e e s s w w p n n s 
+22 n w p e p w p w s e e e e s n w p s p e s n 
+18
+21 n n s n n p p n e p n n n n w s w n p n s 
+20 s n s p e w p p s p s w s e e s s w s p 
+18
+21 s s w n n s w s w s n s n e w e w w p p w 
+20 s s n p s e w w p s n n n w s n e s n w 
+20
+21 w e w s n s s w p s n e p e e e s p e p p 
+22 e e s e n p n s s s n n s e p w w p s n s e 
+24
+20 e s s p p e p n s n w n w e n p n p s w 
+20 s p n p n n w s e w w n e w w n n s p n 
+11
+21 s e w e n s p w w s e n n p e p s p s n p 
+22 w w w e w e w n w s n n n s n e e n w n e s 
+18
+20 s s s p s p s n w w e n p p e s n w e s 
+21 e p w p s e n s s s e n s n e n p s s n e 
+22
+20 n p p w w p n s e w p n w p n p e n s w 
+20 p e w w s w w p e n n e e n n w s s w s 
+15
+21 p e e e s e w e e w w e s p e s w n e n n 
+22 w e w e n s e p n n w s e w n e w s n w w n 
+12
+22 n e p n e e s p e p p e w e w s w e e n e p 
+22 e w s s n s n s n s e e p e p s s e w s e e 
+14
+21 n s w w p e n w e s e w e e p n s w p w w 
+21 n p n w w s s e s n p w s s s p n s p p w 
+11
+22 e n s n s n p n w w n e w p n p e w w p e e 
+22 p n w n e e e p w n e n p p e n n n s p p p 
+18
+22 w s e s w s e n s s s s w w w p w w w n n w 
+21 p p w e w n e e e s p e w w e w s s s s s 
+12
+21 w e p e n s w n s e w s n s e e w e e s n 
+21 s p s n w w e p e e e p p n w s n n w e p 
+15
+20 e n e n p n s w w s n e e e n p p n s p 
+22 e w s s e p n e e s e n p s n s e e e p p w 
+15
+20 w p p p w e s n w p n s s p e p n n w s 
+22 s s s w s w w s e n n w w n p e n n e w s e 
+15
+20 n w w p e e e n p s e w w e e s w s s n 
+22 e p p p w s w e s w n p p s n n e p w s w n 
+18
+22 p n n w n p p p e n w p s n p s n p s e n e 
+22 p s s e e e e n e p s n s p e n s n p s p e 
+18
+20 p n e n s s n n e w p e s p s n w p e e 
+20 s w w p n p w w e s e w n p e e n p s s 
+14
+20 w w w e n w p s p e p w e n p n e n s p 
+20 e s p s p n n w s w e e s e w s e e s w 
+23
+21 s e s p p n p n e n e s e s s p p e s s w 
+20 e e s p e n n s n p n w n w p p p e s n 
+19
+20 n p w w w e s n e p e p w w w e n p w s 
+21 n w s e n p e w n w p s e e s w w p s w w 
+21
+21 p n s n s n n w e e s w p p p n w p s s p 
+20 e p w e e n w n w s w n s n w w n n s e 
+11
+21 e p w n p w n s s n n s s n n w n s w w w 
+20 s e e w w n w n n n p s w w n e e w e n 
+14
+22 w p n w p p s p s w s n w s e s w s n w n w 
+22 n w n w s e w p s p n s e p e p s w e s s n 
+10
+20 s p s n s p p w s e n w n s p n s p p p 
+21 e e e w n n n n n n n s e w p n p e n w s 
+13
+20 n p p p w n e n w n w s s p e p s w s s 
+22 p s p e p e n w s w s n n n e n n s s n s n 
+11
+21 p n w w n n s p w s e s e e w e s w s p w 
+20 n s p e p p w e s s p e n e s s p w n n 
+10
+21 e e n p s p p w s p s e w n p n w e s w e 
+20 s p e s w s e n e n s s p w s n w e s n 
+14
+20 w e n e p e w n w w n p s p n s p e w s 
+21 n p p s w n w w w w w p n e e e s e e n p 
+13
+21 p w e n p w e e p n s s w n w p w n w e p 
+21 n s s p e e e p p n w p e s w p e n s p e 
+16
+22 e e e p w p n n w s s p w p n p s p w n p p 
+20 e e p n e p w s p s w n p s s s s n w e 
+16
+22 w e p n e e n w w e s p e p e e w e w n n w 
+20 p p e n w n e p w e s s n p e e e e w w 
+11
+20 p s p e e s s p e n p s w n s n w p e n 
+20 e p p s p e s w p n p n w e p p p e p p 
+16
+22 w w s p p e n p w p w p p p n w s n w p p n 
+21 e p s s p s n s w s n p e n s w w p n s w 
+13
+22 s s n e n s e s w e w w w e e p s p p n s s 
+21 e e n s p w e e e n n p e n e n n n s n e 
+22
+21 e s n s s w p n n p w s e p s n s n s p e 
+22 n n n w e p p s p e e e p p n n e e p e e w 
+24
+22 s n s n e n s e e w p w n p s e s e w w p s 
+21 e e p n p s n w s n e n n p w p s p s e s 
+19
+22 p p e p p e n w e w n n s e e p p w n s n p 
+20 w s w s e p e n p n w p e w n w w n p w 
+17
+20 n s e s p e s w p p n w w p n n n n e w 
+20 w n s s s w w s s n e w e n p n s e w p 
+15
+21 s p p e n p p n w p n w s p e e w s s w s 
+20 p e p w n p w e s w p p s p n e n e p p 
+18
+20 s s w n s s w w w w s s s n w e e w p p 
+22 n e e n w w e e n s s w w w w n w e p w w s 
+16
+20 p n s w n p n s e p s n e e e e s p n p 
+20 p p s n s e w w n s n n e s n n e p w p 
+17
+22 e w e w w e p n n n p n w s p s s e p w s e 
+21 n w w p n w s e e s e e s s s e e w s w p 
+10
+22 s s n s s p w n n w p n s e s w w s p p p n 
+22 e n e e e w p s e p n e p s e p s p s e e p 
+24
+22 w w p s p w n p w n n p p p w e s p e e n e 
+22 w p w w w s e w e n p s n p p w p p n p s n 
+11
+22 e e w p s n e w s w w s n s s p w n n w n s 
+22 p s w n s e w s p e p w w w p s n p s e p w 
+15
+20 n n e n p p w e s w p s n p w p s p w s 
+21 e s w w n w w s n p w n s w e s p e p w e 
+13
+22 w e s s s s s w e w w n p n w w p p n s s e 
+21 p e s p e s e e p e s s n s s n p p e w p 
+21
+20 s e e p s p s s w w p s s s e w w e w e 
+20 p s n n s p n e w w n s s e n n w n p e 
+17
+21 n s w w p w w p e e w e e p e p n e s w s 
+22 s w w e p s s p w p p s e n n s e s p p p w 
+21
+21 w w e w n w e s n p w p s n w s p s n w n 
+20 n s s s p s n s n s e n p p n e n w e s 
+21
+20 n n n e n s e p w w n s p n e e p n n n 
+20 s n e s w e p e p n s w e s s s n n p n 
+19
+21 n w w w e n n w n e n s e e n n p w e e s 
+20 s p e n e n s p p w p p w e s n e p p s 
+17
+22 p e n p w n e p w s s w s n w p w s n s e n 
+20 w n p n n w p s s e s s p s s n n s p e 
+17
+21 e e s w s p w w s n n e s e n w w p s e w 
+21 p n s e p p p n e n e w p s w w n e p e s 
+15
+21 n p e p p s e n s s n n n n p s p s p s p 
+21 e e p s e e n e p w w s p n p w e e w e s 
+16
+20 n e s n e w p p p n n s e s n w w p p e 
+20 w n p n s s s n e e w p e s p e p e e e 
+22
+22 p e e n e s e w n p e e s s p s n s p p p w 
+20 s w s s e p e n n w w n n e n s e e n w 
+24
+22 e p p n w n e p e e e e e n n p w w e w w p 
+21 e n w p e p p e e w s w p w e n p e s e w 
+14
+21 e w n s s n s n p n e n n s n w n w p w n 
+20 w s n s p p n n e n n s n e s s e p n s 
+11
+20 s n p n s n e w w n p w e s w p s s w p 
+21 n e s s n w n e n p s s p w n w n w p p n 
+21
+22 e p e p p s p s n n p n e s p e p s n w s w 
+21 w w e e s p e p n p e e n p p p n n e n s 
+18
+20 p n w s p w n s s n s n n e w w p w n e 
+21 w n w w p n n s e s s p n p s n p e e e w 
+19
+22 w s s s w n s e n n w p e n s s p e e p p p 
+20 n e w s p e s p w n n e p s p e e w s w 
+20
+21 p e p p e w n n n n n n s w s w s w s s e 
+22 p s w p e p p w n s w e s p e n s s s w e e 
+19
+22 w w n p e n n p w p s s p n s p w s p n e e 
+21 n s w e s n w p p e n e n p w w p w n p e 
+24
+21 p s n p n e n e p n s p e p s n e w s s w 
+22 n e s n e e p p s s e e w n s p p s w e e w 
+18
+22 s p n w n p n n s s p e n w n w p s p n p n 
+20 w n e n n n n n s w s p p w p p e s p p 
+21
+22 e w s s n e w w e w p s s n w p s p e s e s 
+20 s n e e s e n p n p n e w w s p w p p n 
+23
+21 n n e s e e w e e e n p e e e e p n p s w 
+22 e s w p w p n s p s e p e e s n w w p s p p 
+13
+20 s w p n s w s p s n w w w e n e e n e e 
+22 p w n w e e w n s p e n p w p n w w n n p p 
+14
+22 e n w p s w s p n p p p e w s e s w w p w n 
+20 s p p e e w w e s s e n w w w w w w p s 
+18
+21 s n n s p n w e e w e p w e n w e n e s w 
+22 e n e n s p e p e n w e n e n n p p e e s w 
+22
+21 e w p s p p s p n p p n p e s n n w w e s 
+21 e s s s n s p w e n e p s w p p n e s w p 
+24
+20 n p w w p n s s w n n p s s n s w w e p 
+21 s w p e p e w e n w e s e e e p e s p w p 
+12
+20 n n p e w s p s w s e e w n s e s e e w 
+21 n s e w n p p p n n s p p n e e w p s w s 
+23
+21 e n n s n e n e w w s s p e e s e n w p n 
+21 w p w e p n w p e p n n n s e s w n s n n 
+15
+20 s w p n p e s e w p p w e s n w s p e w 
+20 w w e w w s n w n n s p s e n e s p w w 
+11
+20 n p n w w w p e n e e e p p n s n s w e 
+21 p p p e s w n w n p n w n p n p p w p n s 
+11
+20 s w p p w e e s p n n e s n e s n p p e 
+20 s w p s w w s s w e p s e e p p n n p e 
+21
+20 e s n s n n w e w s s p p s w w p s p n 
+22 p e p n n w w e p p p p s n w n n n e w e n 
+16
+22 s w s p p s n e w w e n e s p s e n e w w n 
+21 e p w n s p s e s w w s p n n w n p w w s 
+12
+22 e n n w s e e n n s n e n p s n w e s e s p 
+21 w n e w s w e n s w e e n w e e w s p s e 
+23
+21 p e e e s s p w s p p s p n w s e n e p w 
+21 n s p s w w n w p e p s s w e s p w p e e 
+24
+21 e s p w s n p p s p p s e s w s e e p s s 
+21 s s p w e w s n p p p e s e e w p s w w n 
+22
+21 n p n s p e w w e s w w w e p e w e n p s 
+20 w e n s s e s e p s s e p n n e e n p s 
+13
+20 e p s e e s p w s s e n s n e s w p w p 
+21 p p s p s w n w s n s p e e e e s w p w n 
+20
+20 p s p e w n e s s w w s n w w n n s s e 
+22 w e e e w p p s n s s p e n p s s n p e p e 
+11
+21 e n w w e w p s n n w p w n n s e e s p w 
+20 n s e e e w n w e w s e p s p p e w p s 
+22
+22 e p n w n p e s n p e e s n n p w w e w s s 
+22 p e e n n s e e w p n e s w p s n s n p e e 
+22
+21 s p n e e e n s n e w n s s n e n s s e s 
+20 w e s s e p n n p p w n n p w n w w w s 
+13
+21 n s n s p e e w n p w p n n e w p n n s p 
+22 w w w p n e s w e w e w s e w w p e w p n w 
+23
+21 s s p w n s p n e s w s w e p n s p e w p 
+22 s p s n p n e s s p e w p e s s p p s e e p 
+21
+22 p e e w p n s s w p w w p w s n w n e p p p 
+21 p w s w n p e w p p e s e p s p w w w p p 
+15
+20 e p s n w e w w e w p e p p n w p p w n 
+20 n e w n e p n n w s s e w w p e p p p w 
+21
+21 e e s w n p s s n p p s s n n s p p p w n 
+21 n e w p n w p s n n e w p n e e n e e p s 
+19
+21 p p e s w e s n s n s s w e s s w p n w w 
+20 w s n p e n n n p e w e e n n n e e e s 
+21
+21 w p s w e w p n w n e w e p w p s p w s e 
+22 e e s p s s e s p p e w s w w e e w e n s w 
+10
+20 s n n p p p e n e s p p w n p s n n s p 
+21 n s w e e e p p s s s n n n e s n e p n p 
+11
+21 s w e w p s p s e p p s e w p s e w s w s 
+21 s n s s w w w n p n p n e e s w s w w s p 
+10
+22 w s s s w p p w s n s n e n n p s n n e n n 
+22 w e n n e e p n w w n s n s e p p s w e w n 
+18
+22 n e w p w s e n n w p n e e s n w e s s w p 
+21 p s s n e s p n e s s n n s s w e p w w e 
+14
+20 s w s s s p n n s w e s p w e e n w n s 
+20 p n e p p p p n s p s n s w p n e s p n 
+20
+20 s s e p s s s e p e s s n s s s p p w n 
+20 w p s n n w s p s w w n s n n n w p n n 
+12
+22 n e e s e w s s n e p w p n w w e n e n p p 
+21 s p p n e e s w s p e n w n n p w w p p e 
+24
+22 p e e w w w p s s w e e s e w p s n w s s p 
+21 n n s w n p e w w w n p s n n w e e w e e 
+21
+20 p n p e s p p w n w n n n s s w p e n e 
+22 s p w w n n s s p w s s w p p s w p e p s e 
+11
+21 n e s n n w n s n w e p n e p n p n e w p 
+20 n w p e s w e s s s n w n n p e w w s n 
+18
+21 s s w p n n p w s n e w p p w n w e s e n 
+21 w n n n n s s w s n p p w n n s w s s n n 
+18
+21 p n w w p w w w p p e e w w s e n p n e w 
+20 w w e w s p e p e n n n e n w e p s w s 
+18
+20 p w w w n s e p e w w n w n p p s s e n 
+20 e e e e n n w e e s n e s n n p s e w n 
+20
+22 p s s p e n w n e w s s p s w s n s e w w w 
+21 w e e w e s n n e n s w p p s e w n n e p 
+16
+22 n w p e p s n p w s e n e s s e w w s p n n 
+20 n n w p p p w n p p e w n s w n s s e w 
+15
+21 e n w p p n e p p e w n n w s e e p n n e 
+22 n p p p n n n n p n e e s w w n s n p w n s 
+20
+21 e s w n n w e e n p w n s e w s w p s n n 
+22 p s e e e n s p w s s s p w n e s s e n n w 
+12
+20 p w w p w e w n n e s s e e p p w p e n 
+21 n e w e s e s p e w n w w n w e s w e e n 
+18
+22 n s p e s w p n n w p w e p n p e s p s s n 
+21 e w w w n s p p e p w n w e w n s p n n e 
+21
+22 p s e s e e n p w s w e n s e e n e p w w p 
+21 s w n e s w n e w e w w n p p p e p n p n 
+11
+22 s w w p e e p w n e s p w e s w n n s s e e 
+22 p e s p w e n s e w w p e p w n e n p s s w 
+11
+21 p w e s p p e n e n p p s s p w p w n p e 
+21 n s p w n n s p n p p p p s e n e e n p n 
+12
+22 e p w e w w s s p p e n s e s e s p w s s e 
+20 p n s s w w e p e s s p e e p n n n w e 
+16
+22 p e s e n p e w n e w e s n n s s p n p s s 
+22 e n s n p p w s n s s p w p e p n p n s w n 
+11
+21 s e s s e e w s e s e e n p n n s n e w e 
+20 n w p n s e n w p p w n e n s w n n n p 
+11
+20 n n s p s n s n n e s p w w w w e p w w 
+21 e w p w s e w e p n p w n p p n w w e s s 
+11
+20 n e e w e n w e w w w n s e e p n p e e 
+20 n p n e s w s e p p s s s s s n n p p p 
+14
+20 p w w e w w e e n p w e p p e p e s s n 
+22 s w e n n p n s p w w s p w s n e w s n n n 
+21
+20 s n s s n n e e p n w w e s e p e p p e 
+21 w e s w e w s s s p p w s w e w s e p p w 
+12
+21 w e w n s p e s s w s w n s s s e p p s e 
+22 e e e s w s p e e w e s p s n e s s w e s s 
+21
+20 w p n s e p s e w w e p w e w w p s p s 
+20 p w w s p s p n w w e n s e s p w n s w 
+21
+20 e p s p w n n n s w n p e n w n p n w p 
+21 s e w s n w p p w e p w s e n p s n p n n 
+10
+20 p w e e p n n p n w n p s p e w s s e p 
+22 n n n e p s s s s p n n e e p e w n s w p e 
+21
+21 p s s p s p e p n s n s e w e w p w n w w 
+20 w w n e w s n e s s n e e p e n e s s n 
+10
+22 p s n s e s e p p p s w p p n p w w n p p p 
+22 e p n e s w e e n e n e n w s w n n p p w p 
+10
+21 s p n s w p s p e s n n p s p w p s w n e 
+22 e s s p p e e p n n s p e e w w n p e p p e 
+23
+22 p p w p w e n p s w e w n n s s w p p s n p 
+21 p n p n e p p s w p w e e e w e s s p w s 
+22
+22 w n e p e w n e e e e s w e n w e p n n e p 
+21 e n e p e p s n p s e n p s e s w p n p n 
+10
+20 w p s e e s n w e e p s e e e s e n e p 
+21 w e s s e p s w s w n w p n p p s e e p p 
+16
+20 e n s p n w p p p w e w s w n w w n n n 
+22 w n s e e w s p p s e n s e n s s s n w w w 
+11
+21 n p s n s p e n p w p p s p w s n s s s w 
+21 w s e s w w w s e n e s p s p e e w e w w 
+18
+22 n w e w e e s e e s w w p w n e e s p n n n 
+21 n p e s s p s w n p n p w n w w n p n s s 
+12
+22 p w p s s e p s p p s e p s n s s p e e s w 
+20 w n s w w n e s e p n s s p e n s n n p 
+17
+22 n e e w s w p s w p p e e e e n n n p n n p 
+20 p n p p w e s s p n s p w s w w s n s n 
+19
+20 p n w s e w n e e e s n n n e s e p s e 
+20 s w s p s p e p e s s p s e e n p e w p 
+18
+22 e n w n e w n n p e n p n p w w e w n e s w 
+20 s p n s s n s p n e e w p e s s s e p e 
+14
+21 p s w p s n w e p w w s w n n s e p p s n 
+20 w e n p p n n e w w w n w e e p s w e w 
+16
+21 w p n s n p s s s p w s e p p s n w w e e 
+21 n e p p p p e s n n w s p p p s w s p n w 
+15
+21 e n p e s s n e p p w w e s n w e e e e n 
+21 e w e p s p p n p p e p s p w n n w e s e 
+22
+22 n e n e e w w n w p e n p p s n w s n n p w 
+22 s n s p p n e w n s e s p e s w w p n p w s 
+14
+20 p p s s n w e n e p e n s n s w p n e n 
+22 s w e e w p n e s s w n n e w s n e w p e s 
+20
+22 p p p w e n s w e n s p p n s e w e s s w s 
+22 s n w w s w s w w p e e e w e p p n w n p s 
+18
+20 e s n s e s e w s s e p s p w p p s w w 
+20 n s s e p e s w e s s s p n p n e s w w 
+16
+20 w n s e n e s w w w s s p n s e e p s s 
+20 s e e s w e w p n s s s n e s n e p n s 
+20
+21 p s w s p s e p e n w w e e w w s e s n n 
+22 n p n w e s w e s p s s n n e w e s p n p p 
+12
+21 p s e w n e e p s e e e n p p s p w e s p 
+21 w w s w n n w s e n e n e p n e e s p e w 
+17
+20 p p s p n e n e p e s n w e s w s p s w 
+20 n e n p s p s e s n e w s p n e n n e p 
+17
+20 s w e s w e w e w w p w e s n p w e w w 
+21 n s s n n w w w e s w n w e n s s s n w e 
+15
+22 p s w p p w n s s p s p n p n w p p e n e s 
+21 w e s p n e p n w s w w w s e s p e n w w 
+10
+21 n w w e s e n s e p w s n s p e w w n e p 
+22 e p s n e e n p w e p s s n s n n n p s n n 
+10
+21 e s p p p s w p s e p e e p e w s e p s e 
+20 p w e p p p w p p n w e e s s p w n p w 
+11
+22 e e w s n w n e n s s w w n n w p w p w w w 
+20 e n e w p n e p e w n n e e e s e w s s 
+22
+21 p w n e w n p e e s s p n s w n s p e w n 
+20 w p s w w n s s n p p p s n s n e w w s 
+16
+22 e n s p n p s n n p e p p w e e p e n w n s 
+20 p e w s n n s p e p n w p w p w p p w n 
+20
+22 w s w s e s w p n p p s s n e w n w w s e n 
+22 n s e p e s p e p e w w n e w w n s w n p p 
+10
+20 n n w n n p p n s e s s e p p e p s n s 
+20 n p s e s n w e p s e e w s s p n s p n 
+18
+20 p p e s p s p e n p e e e s s w n e w s 
+20 e s s e p p p n s e w w w s w p e w s p 
+16
+20 e n p e s e e n n s n e n p s e s s e p 
+20 w s w s p n p p n n p p w w p w e e e s 
+10
+22 n e n e s n e e n s p s e w n p n w e e s e 
+20 e w s e n p w p s n w w p w w w e p e p 
+18
+20 e w n p s s w p p n w s n p e s e p w w 
+20 w e s p p p s w w w w w s n w s n e p p 
+17
+22 n p p e w n e e w n e w n e s s p e p p p n 
+20 w e w w p p w p e n s w e p e e n s e n 
+21
+20 p p e p p p p w e s n p n n n n n e w e 
+22 p p n n w e p s e n s w n p s e p s e s p w 
+10
+22 w s s p p s p s p p n n e s s p p s w e s w 
+20 e p w e p p p n p e p n p e n n w w p w 
+13
+20 s s n s w e p p p p e e w p w p p e e p 
+21 s s n w n w n p e p w s w n w e p p p n e 
+23
+22 w p s e p w e e n s w w n n p s w e w w w n 
+22 n e s p p p w e e s p n e e n w w e e n s n 
+22
+22 p w w s n n e n p s s n w n s n e w n s e s 
+22 w s s p p s p e n s s n e w s p e e w s s w 
+12
+22 s n e p n e p e p p w w s n n w w e p n e p 
+20 s s n s w n s w e n w w s s e w p n s p 
+21
+21 s n w n w e w e w s n s e w n s w s n n e 
+22 p e p s n s w n p n w e n p n p e p w s e s 
+12
+21 p n w e s w s p w w e n s p n n w e n w w 
+21 s n w n s w p p w w s e e n w w n p s n s 
+15
+20 w p e e p p s n p e n n s n p p e s n n 
+20 n e e n w w p w w w s w s n e s s e n e 
+24
+20 p n p w p p s n s w s e n e w e p w w s 
+20 p s e n w s n s s p w n s n w e p n e w 
+24
+20 w s w s p s w e n p e e n n p s e w e w 
+22 p e p n s p s w p w n s n e s n n s n e n p 
+14
+21 w n n w s n n s e w e p e n n w p e n p p 
+22 s e p w p n n w s e s p p p w p p p s s p w 
+24
+20 n e p n p w p n s e p n w n w w e p n e 
+22 n n p p w p p e e w w p w e e p w p e e w n 
+10
+20 w n e w e n s n p e s p s n e n s e w s 
+20 e s s n w n s w n s e n p w s w e e n w 
+14
+22 w p p e n s w s n w n w e n s p p w p w s n 
+21 w w n p w w e s s e p e w p w n p s e w p 
+22
+21 s w w w s p e s n p e n w n p e w p n e n 
+22 e e e w e e s n e s p e e s p s e w w w p n 
+17
+20 p w e w p s w p w w w w p s p p n p n p 
+22 w p n n p n s e e n w s s p n e e e p p p s 
+19
+21 n n n p s n s s s n e e s e w w n w s s n 
+22 e p e w w w n n n n w n n w e p n p e p n w 
+11
+22 p s n n n s n n s w w e p e w w w p e s e w 
+22 n n n e n w w e w n w w e w e n n e e p e w 
+21
+20 p s e e s n w n e p p s e p s n p w e s 
+20 s e p w e s s s n w w w s p e p p p e n 
+14
+22 w n w e w n p e n s w p p e s s e w w s w e 
+21 w w s n e w e w p n e n s e e s s e e p s 
+22
+21 e n p s e p e w w s n s e s p s p n w s p 
+22 w w s s w s p s n p n e e w s s n e e p n w 
+19
+20 p e e w e w w p e n p w p s n w n n w s 
+22 e w n s s p s s s s n e p e p e n s w w n e 
+19
+22 w w n e s p w p p p n p e p n w s n p p s w 
+20 e s s e n s p e p w w w e w n e s n w p 
+24
+22 e s s e n p s s p p p w e w n p s p p e n e 
+20 e e p p s n w w s p e w e n e p s e n w 
+13
+22 w s p e n p s s e w e e w s s n n w s w w e 
+22 n e n s p p w w e n s n s w n n s w e s e s 
+14
+22 p e e p w w n w s n w e w n s n s s s n s s 
+21 s p w n e n s s e w e n w p p e s s p e e 
+20
+21 s s n e e p s n s e s e n w w w p w p w w 
+21 e w e s n w p p w n e s n p s e w n p e p 
+17
+21 e s w n p p p e s n n s w p s s s e n n w 
+22 s e p p e n p w e s p n n w s e w n w p n n 
+17
+20 e s s n s n p s n e w n w w e e s w w n 
+21 p w w n w w s n w w p s n w e w p n p p n 
+11
+21 s w w e w e p n w s w s n e n s w e e w e 
+21 e s s p p s p p w s w e w s w s s w w p w 
+21
+21 p w n n e p e e n e s s p p p w s p p n s 
+20 p p n s e p p p p n e e w p p n e s n e 
+16
+21 p s w w s n w s e e w s e s p n s e n e n 
+20 e e w n e e p p p w s s e p p e p p s n 
+16
+22 w e n p p p w p p n w s w e n s e s w w e n 
+20 n p n s w s w n p s w n p e w p e n p p 
+10
+21 e p n p p p n n s w p w n e p p n w w w s 
+21 e p s s e w w p e e p s n p e n w p e s e 
+14
+22 s e p s p n s p w p n s w s w e s n w n s w 
+21 s w s n w p p n p n n s w p s s p s w n n 
+11
+21 p w e w w p s e n s p e e s n w e w n e w 
+21 n n e p p e e n w p s n w e e n s n e w p 
+21
+20 n s e w n w n w p e e s e p w p e p w w 
+20 e w n e w s p s p n p p s n w e n w s s 
+17
+22 w s s n n n w e p e n p s e e p n s e e e s 
+22 n s w w e w p w e s e e n s p p n p p p s w 
+13
+22 n w e s w s p e w p n e p n s s w p e p s e 
+20 p w n e n w n s e e s p e p s w n e e n 
+10
+21 p e w n p s p n e e s s s w s e p s w p p 
+21 w n p e s n s p s n e w s p e e n s e e s 
+13
+21 s p n p p p e e n e n w e w s n p n w e p 
+20 n s p s e e n e w e w p w p w w w p w n 
+19
+21 n s w s p p e w e s s w p e n s p w s s n 
+22 p n n n w s p w p s s e p n w n s s n w p w 
+18
+20 w w w n e n n e p p w e s n n s w n s e 
+21 s e w n s e n n p p n w p s p s s w e w n 
+14
+20 p n s n s s p n s s w p e n s n n w s s 
+21 p n p p w s p w w e w e p s n s e p n s p 
+14
+22 p e w s e w p p e p n s p n n e w w n n w w 
+20 w n s n n s s p w e e p p w e p s n e e 
+18
+21 e e e w s e n p p w w n e e e p n n p e e 
+21 e n w n s w e w s p w p s e p s p e n w p 
+23
+22 n n n n s s s n s s s s p n e w p n p n s s 
+21 s p s n w e w s w p e w e s e w s w s w e 
+19
+20 w s e s e p p p n w p e p p p p p p w n 
+22 s w n p e p p w s p n p e n w s w w p e n s 
+13
+20 n n w w w p e e w p w s p p p n w e e w 
+21 w n e s w e n s e w w p s e e s w n n e s 
+12
+20 p s p p w n p w w p n s w s e e e w e e 
+22 e w e p p w s n p p p p s n n w w p w e w n 
+11
+20 n n e n e e p n p s s e n e n s n s w e 
+22 e e s p w n s w w s e p w s p n w p p n n p 
+16
+20 s s e s s w s n n w n e p e e w e p w p 
+20 p n w n w e p s s w e w p p n n e p s s 
+12
+22 s e s n s e n p e e p n s w n s n s e s e p 
+22 w n w s p s n e e w e e e w n e s s e e p s 
+22
+20 s p p w e n n n s w w p s n s n e e n p 
+22 e n e w s p n n p p w n w s e n w s p e e p 
+17
+22 n e w n p e e s e p p s s w n n e p s e p p 
+22 s n s w s s s s w p p p p w p p w w w w p p 
+16
+22 n s p w n p e e p w p e p n p w w n e e w s 
+22 e s p w s n s p n p w s p s w e s e n n s e 
+22
+21 n p e s s s p e s n p s e e e p p e e e n 
+22 n p s s p n p n w s s w n n w s p s w w n n 
+10
+22 s w e p s w w n n e e s s s s e e w n w n n 
+20 s w e p e s n n p p e s p s s n e s n w 
+24
+20 s e e e p w n s w e p n w p p w s p s n 
+20 w s p p e n w n s n w p s p s s s w s s 
+19
+21 p s n p n w n w p n e w n e p n n p p w e 
+20 p w e e e s p w w n n s w w p w w p w p 
+17
+21 e s e s s w p s p e e w s s e s w p p w w 
+21 s n w n s s n n s p w p e w w w n n w s n 
+18
+22 n p n n e w e w n w e w p w p n p p n w s w 
+22 w n s n e p p p n n s e w p w w w n p p e n 
+11
+21 n n e p e s p e e w w s p w s n w e n p e 
+21 p n w e s w s p e e n e n n p p p p n e p 
+17
+22 s s p s p s n p w p n n e p s e e e n n p n 
+21 n w n e p s n n p p p e e s e n p p w n w 
+16
+20 w p s e e p e w p s p p s w s e s p p e 
+20 n e n w s w e n w s p w p w p p n n n s 
+15
+20 s s w p n p e s n p w w n p p s p e s s 
+22 p n p n n s n w w p p n e p w p e n p s s e 
+12
+22 e w w n s s p e e w e s n s e p p s e e s w 
+21 e p e n n p n p s s p w p s s e p n e n p 
+12
+21 n s p p n p p e e s n w w n s w p n w e s 
+21 n p w s p e p w s w p n n n w n p n p w e 
+21
+20 n w p n w w w p e e e e w n p e s n n n 
+22 p n s e p s p n p e w s n e s e w e s s w e 
+10
+21 w e e n w e e n w e e n w e s s s p e p n 
+21 s n e e e n p e w s p w p w n n e w p w w 
+10
+20 p s s s w w w s w w w e s e s s s s w p 
+20 w s e w e p w s e n s s n e s n s s p n 
+11
+22 n e p e e s w s s s n p w p p p n n w s p p 
+22 p w n p p s p e p n s n n e w e w w s n s p 
+18
+20 n w n p n n p w p n n s e w w w p n e n 
+21 w w n e e p w p e w n p n e s w w p e n s 
+16
+20 e s p e s e n s n w p e n w w p s s e p 
+20 e s p s p e e p p p w p w w s p e p n p 
+13
+20 s s w n e s n n s p p p e p w p n n w p 
+20 p w p n w p p n w w w p w s e e w n e e 
+20
+20 p n s n w n e n p p n e e e p n e p w n 
+22 n p w s p p e e e e e s s p s p w n s p p e 
+15
+21 n s p n p w e w p s n n p s w p w n s p p 
+20 e s p s w n s n e e n e p w e n e w e w 
+15
+22 n s s n s n p s s w n p s p w e p n e s p n 
+20 n w s p p n n e s n e w w n s s w p p s 
+18
+20 e e e p s p n w n e e e s n p w p w p n 
+20 s p p n n w n p w n p n e e s e s e e n 
+17
+22 n n p w n e n p e p n e n e n p e p w n n n 
+21 w p e w n n e n w p w n e n s s p p n n n 
+11
+20 p n e e p w w e e s n e n n e e p e e n 
+22 w p w n p s e e e n n w n p s e p e e w w n 
+11
+21 n e p w s s n p n n n n w p p p e n p s p 
+20 p s s n n w p w n p w e w p p n p e n n 
+18
+22 e e w n s e p p e p n w p w s n n w s n p n 
+21 p s p s p s s p n n s w w p p e w s w s p 
+15
+22 e n s e w w n n p n s w e s n s w s e p e n 
+21 e n n p n n n n p p n e n p n s p n w s s 
+17
+22 p s n p e s w n w w e e e w e w n w w s s e 
+21 s p e w n w p n p n n e n n w w p n s e w 
+11
+22 e w w w w e e p p s s e w s n p p s w s e n 
+22 p n w w p n e s p e s e s s s p n n p e e p 
+14
+22 n e s p e n e e w p s e p s s n e e n p p p 
+20 s n s s e w p e p e w n w s s s w s s e 
+12
+20 w w w w e w e p w s n p w e p n w n n e 
+22 s w n p n n w n s e s w p n w w w n n e n p 
+24
+21 w p e e n e s s n p p s s e s w e n p s p 
+22 p s e p n p e s p p e e p p w p w p n p p p 
+18
+21 s n s e e p n w s w n w p p w p p e p s n 
+20 s e n p s n n n p s p e n w s s n s e e 
+13
+20 s n p n w n w n p p n p e p n w s p s w 
+22 w s w n e n e p n p w e e p n p n p p e p p 
+20
+22 w e p s p w n p n n s p p n e w w e n n e p 
+20 n e w p p n e n e e w n w s p p p p e n 
+23
+22 e e e e s s s e w s w s n n e p e n s e p w 
+20 w p s n s n n e e e s e p e e p s e s s 
+11
+21 w w n p s n e n e n p n n e w s e w n n s 
+22 w p p s w n e n n p e w e s w w s e n s e w 
+24
+21 s p e w s p n e w e p w w n w s p p e n s 
+20 n n e p p p p n s n n w n s p p p s p e 
+13
+20 n e p e w e s p n s e p n p s n w s p p 
+22 w n s s s e s s n e p e p n e w n n n n p s 
+14
+22 s n n s w e n e e n s w p w e p e w n w e e 
+22 w s e s w e e s s e e n w p s n w p p w n w 
+18
+21 p s e w e e p p w n p w n w e s p e p p w 
+22 n p s w s n p p s s w s e p s p s p s w e s 
+20
+21 n p n s n n w n w p p w w e w e e e n p s 
+22 s s p s p s p w e n n e n e w n e e e w e p 
+18
+20 s s w w s w s w s s n e s n w s w e w n 
+21 e p e n e n p w n s p s n s w w w n n w p 
+16
+22 p e w w p p n s p s p n s s e s n n s n s w 
+20 e p w w n p e w e n e s e n s e p n e p 
+11
+20 s w n p w s p s w n s p p p p n s s s p 
+22 n e s w p s n e s p e w p s w n n w s e n p 
+14
+22 n e e e n p s n e p w w s p p e e p w w e n 
+22 w n s s w w n s e w p w n w s e s s w w e n 
+23
+22 w w e s n n p e s n n n n e w w p s p e w p 
+20 s w n n p n s n p n s p s e s w e s s p 
+20
+22 s w s w n e e w w p n w w s p e s e p n p p 
+21 w w p n s e s e e e w w p n w n w n p w p 
+16
+22 n e s s p s p n p n p n p e p p p w s w s n 
+22 p p s n p w w p p e e s e w e w e e e e n n 
+17
+21 s n p e n w s e s s n e w n w s p p s s n 
+20 e n w p w n p p w e p e w n s p e p s n 
+23
+22 s w p n e w e e w e s n s w s w p e p n e w 
+21 w e s e w p w n p n n s e p n s n p w w s 
+24
+21 w n e e w n e s s p e w w e s e e p p p w 
+22 n w e p s n p p e w e e w n p p p e p p s e 
+22
+20 p e s w n s p s s e e w n e e s p p s w 
+22 p e w p e p p s w s w s w p e s n s e p w n 
+23
+20 p p n n p w w e w n s s n s s s e n e w 
+21 s n s s s s e s n s w s p w p n s p p n s 
+22
+21 e n e p s n w p s s e e w s e n e s s w e 
+21 e p w p s s s p w n e s w w p n e w p n p 
+19
+20 w e p w n p e n n p n s s s s e w n s p 
+21 w n s n s n p s w p p n p n s w e w s e n 
+22
+22 w n s w w e e e w n e w p w s s e w n s e s 
+22 p e e e w e n e w n p p w w e w p n s w e n 
+24
+21 w p w n n n p p p p n e n s p n e e w p p 
+21 w s e w e n n n w p n s s p e n w s n e w 
+15
+22 w w n p s n e e w e e p w s w e w e n s w n 
+20 n n n n e e s s w e n s s w n s n e p p 
+18
+20 s n n e n e w w e n e s e p e w w s s e 
+20 s w e n s p s w w n p e s e s s e w w p 
+24
+22 e e e e w w p p p n p s s s p n p e n p p p 
+22 s e p p e w p e e n e e s p e n w w w w s s 
+19
+20 n n e s w p w e p n s e e w e s s p s s 
+22 p e p n s s n e e w p e w e s p n p s p e n 
+23
+22 p e n w e e s w w e w p n s n w p s e w w n 
+22 n e s n e e s p w e n w e e n s e w e w s p 
+11
+20 s w n n n w p p p w w n w p s n s s n s 
+21 s w e s n p e s n p e s n e w e e e n e w 
+12
+20 p s p e n n e e s e w w s w n w n n w s 
+20 s p p n w s w e e e w p p n p p w e w n 
+21
+20 s e n s w p n n w n w w n p e p n p e e 
+22 s w e n p w e n n e w p p e s n n n s e e p 
+13
+20 n n n e e p s n n e s s w s s e s w n s 
+21 s n s n w w p w p p s w n e n s p s s s n 
+17
+20 e n s s w e s s n w n s w n n e s w s n 
+21 e s e s s e p e e s e s s s s e w w n n e 
+18
+21 w w e e n p s p w n e e w n s s s p e s n 
+20 e p s s w n p w s w w e e p w e s e e e 
+10
+20 w s s e s p p s s w w e s n w e p w p e 
+22 e n w s e p s p e w n w w p w s s p n w s s 
+20
+20 e p s w e e n s s s w s e n n e w s p s 
+20 w p n s w p e e e s n p s n w e n s p s 
+12
+22 w e n n n p s n e e n p p p s e w w p w n s 
+21 n w n p e n w s n w e s e e s n s s s w n 
+21
+22 n n n w w p w w w w n p w p n n n e w n n w 
+20 w s s s p n e w e p n p e e p e s e w w 
+23
+22 n w e n n w n p p e p n w s p e p s p w n n 
+21 p n w n s e s n p e s p n s e e s n e w w 
+21
+20 p s p s w p s s w w n p w p s p w w e n 
+22 e e w n n w w e e p s e n w w w n p w n n e 
+17
+20 p w e w n n e p p s e n w w e n w n w s 
+20 n p s w s e e n s s p p s n w e p s n e 
+23
+22 p e s e s w e e w p w w w e s w n s w s w p 
+22 e p s n w w e e n s w e p e p w s s s e n w 
+11
+21 p s s n p w w p p s n w s n e n e w e n s 
+21 n w p s w p e p p p w n s n e e w e p s n 
+19
+20 p w n n e e s e w p p s s w n s n n s p 
+20 n s p e e s e n s n w p w s w s e s w p 
+19
+22 s w p s s n n p s p w p e w n p p e w n w w 
+21 s p s p p n p p w s p n w e s w s p s e s 
+22
+20 e s p p p n n n w w e n w n n p p n n s 
+20 p n n n w e s w p e w e p s w w s p s e 
+15
+20 w w n n w w s w s e n w n e e s p n e p 
+22 w p e s s n w n e e e e p n w p e s w w s p 
+14
+22 p s w p e p w p s e w s p e n n w w n s n s 
+21 e e n e p e p p s n n n s s p n n w e p s 
+15
+22 w s n p s s w w n n n s s e p s e s e s n s 
+21 n e p s n p s e n e w w p e n n p w e e p 
+19
+20 n n p n n p p s s n s p n s e n w s p e 
+22 p p e p n n w n e w e w s n s e e n p n p e 
+18
+20 e e e e e e n p p n s p e n e n s n n w 
+20 p n n n w n p n p w p w p e e w e e s n 
+17
+22 s s p n w w s e s e s n s e w p w p s p w e 
+22 n w p n e s p w w p n w w s s w s e n e s e 
+18
+21 p s s s w w e p p n s n n s w e p e s p p 
+22 p e w n e e n p p e s p n w s e p n w e e w 
+22
+22 w s s p n n p w e n p e p n s s e e w e s n 
+22 n n s w s p n n e n n p p w p e s n w p p p 
+23
+21 e p s w s s p n p w e p s n s n p e w e p 
+20 e w n e w p p w s p n s w p e n e w w p 
+23
+21 s w w e e p w w s p p w e e w e s s p w w 
+22 w e e p s n p w e s e p s s s w w n s e p w 
+17
+22 s w s w w p e n w e w n n s n w n s w w s s 
+22 s s e p n w p n w e w n s w n w n s s e p n 
+11
+21 p p p p n n w n e n w p e e p s n p p w e 
+21 p n p n p s s p n s p n w n s n p p n n s 
+18
+20 e s n e s e n n e w s e p n s e n w w p 
+20 p w w w p s s w s s e s p e n e s w w e 
+19
+21 w s e p w w w p n e n w p w n p e e e e e 
+20 p w s n e e e e s w p p s n n w w p w s 
+18
+20 s w n n s p w w w n n n p e n s e e n s 
+20 s p w s p w p p e p e n w n w n n p w n 
+19
+20 s n s e w e n w s n p n n s n n n s e n 
+20 e s s w s s s p w p e e p e s e n w p n 
+14
+21 p n w n e p n p n p n n s s n n e e s p w 
+20 s e s s w s p e s s p s p e p n s s p p 
+11
+22 w n w p e n e s e n p n n e p p n e s s p w 
+21 w p w p w e e s p s p p n e n w w e w e e 

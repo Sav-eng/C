@@ -1,0 +1,34 @@
+#include<stdio.h>
+main()
+{
+    long long n,i,check=0;
+    scanf("%I64d",&n);
+    for(i=1;i<n;i*=2)
+    {
+        //printf("%d",i);
+        check++;
+    }
+    i=n;
+    while(i%3==0)
+    {
+        //printf("a");
+        i/=3;
+    }
+    /*if(n==3)
+    {
+        printf("2");
+        return 0;
+    }*/
+    if(i%3==1)
+    {
+        printf("%I64d",check);
+    }
+    else
+    {
+        printf("%I64d",check+1);
+    }
+}
+/*
+2
+¼Ô´
+*/

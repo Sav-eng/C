@@ -1,0 +1,83 @@
+#include<stdio.h>
+#include<conio.h>
+int a[1000][1000]={{}};
+int max = 0;
+void f(int i,int j,int sum)
+{
+     int check=0;
+     if(a[i+1][j]==0)check++;
+     if(a[i-1][j]==0)check++;
+     if(a[i][j+1]==0)check++;
+     if(a[i][j-1]==0)check++;
+     if(check>=2)
+     {
+                return;
+     }
+     else
+     {
+         a[i][j]=0;
+         if(a[i+1][j]==1)
+         {
+             //a[i+1][j]=0;
+             sum++;
+             if(max<sum)max=sum;
+             f(i+1,j,sum);
+         }
+         if(a[i][j-1]==1)
+         {
+             //a[i][j-1]=0;
+             sum++;
+             if(max<sum)max=sum;
+             f(i,j-1,sum);
+         }
+         if(a[i-1][j]==1)
+         {
+             //a[i-1][j]=0;
+             sum++;
+             if(max<sum)max=sum;
+             f(i-1,j,sum);
+         }
+         if(a[i][j+1]==1)
+         {
+             //a[i][j+1]=0;
+             sum++;
+             if(max<sum)max=sum;
+             f(i,j+1,sum);
+         }
+         
+     }
+                    
+}
+main()
+{
+      int n,i,j;
+      scanf("%d",&n);
+      for(i=0;i<n;i++)
+      {
+           for(j=0;j<n;j++)
+           {
+                 scanf("%d",&a[i][j]);
+           }
+      }
+      for(i=0;i<n;i++)
+      {
+           for(j=0;j<n;j++)
+           {
+                 if(a[i][j]==1)
+                 {
+                      //a[i][j]=0;
+                      f(i,j,0);
+                 }
+           }
+      }
+      printf("%d\n",max);
+      for(i=0;i<n;i++)
+      {
+           for(j=0;j<n;j++)
+           {
+                 printf("%d",a[i][j]);
+           }
+           printf("\n");
+      }
+      getch();
+}

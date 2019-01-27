@@ -1,0 +1,131 @@
+ชุดนี้เป็น Binary Search
+UVA 10487 --- 2 bsearch
+UVA 10566 +++ math+bsearch
+UVA 10567 --- vector bsearch
+UVA 10611 --- lower/upper
+
+ชุดนี้ BFS
+UVA 459
+UVA 532
+UVA 589
+UVA 652
+UVA 10000
+UVA 10259
+UVA 10067
+UVA 10508
+
+DFS
+UVA 195 +++ โจทย์กาก
+UVA 196 +++ excel
+UVA 208 --- pruning backtracking
+UVA 215 +++ fku
+UVA 216 --- tsp
+UVA 291 --- tsp
+UVA 523 +++ hard input
+UVA 539 --- longestpath dfs n time
+UVA 592 +++ brute
+UVA 695 +++ dk no sol
+UVA 10926 --- check vis
+UVA 11518 --- check vis
+
+อันนี้ก็ DFS แต่เป็น Topological Sort
+UVA 124 --- bruteforce
+UVA 452 +++ hardinput longest path topo
+UVA 10305 --- topo pass udebug
+UVA 10917 --- dijkstra+dfs
+UVA 10926 --- checkvis
+UVA 11060 +++ topological sort hardinpute
+UVA 11174 +++ fuckinghard
+
+MST
+UVA 908 --- easy mst
+UVA 10034 --- use double
+UVA 10147 --- addedge
+UVA 10307 --- bfs prepros then mst
+UVA 10369 --- MSFOREST
+UVA 10397 --- double add edge
+UVA 10462 --- second mst
+UVA 10600 --- second mst
+UVA 10816 --- prepro then dijkstra or dijkstra 2 time or floydwarshall 2 time
+UVA 10842 --- maxst
+UVA 11183 +++ mst direc graph edmondcarp algo
+
+DP:
+UVA 103 ---
+UVA 108 maxsum 2d ---
+UVA 116 easy trac --- 
+UVA 147 --- coinchange
+UVA 164 --- lcs track
+UVA 222 ++ mem[x][y] ;y are double
+UVA 231 --- lds nlogn
+UVA 348 --- mcm
+UVA 562 --- divide coin
+UVA 323 --- |a-b| maxsum a+b
+UVA 585 +++ large triangle
+UVA 607 --- dynamic node
+UVA 662 +++ hard
+UVA 672 +++ idk
+UVA 10051 +++ fucking track
+UVA 10247 +++
+UVA 10207 +++ wtf bigfuckingint
+UVA 10239 +++ ยากสัส
+UVA 10541 --- prepro bigint
+UVA 10593 +++ quicksum kite
+UVA 10597 +++ prepro
+UVA 10599 +++ kak
+UVA 10616 --- mod mic 
+UVA 10635 --- lcs ---> lis nlogn
+UVA 11162 +++
+UVA 11176 --- hard winlose streak//
+UVA 11252 +++ box
+UVA 11259 --- prepro + all-except
+UVA 11266 --- sliding window + mic
+UVA 11365 +++ wtf harding
+
+UVa 455 --- brute
+UVa 886
+UVa 11362 
+UVa 11475
+UVa 11576
+
+พวกนี้ เป็น string proccesing + DP
+UVa 164 --- pass on dp
+UVa 257 --- dp n^2[len][n]
+UVa 531 +++ lcword//in sequance
+UVa 10192 +++ lcs
+UVa 10453 --- longest palindome subsequance
+UVa 10739 --- longest palindome subsequance
+UVa 11022 --- MCM+check
+UVa 11151 --- longest palindome subsequance
+UVa 11258 --- string partition
+UVa 11552 --- prepro then mic
+
+พวกนี้ SSSP นะครับ
+UVa 318 --- dijkstra then doit
+UVa 423 --- dijkstra chceck maxall
+UVa 523 +++ hard input
+UVa 534 --- mst then dijkstra// floywarshall minimax
+UVa 544 --- mst then dijkstra// floywarshall minimax
+UVa 658 ---  tricky dijkstra
+UVa 721 --- dijkstra 2 way
+UVa 10039 +++ dp
+UVa 10048 --- floydwayshall minimax
+UVa 10171 --- dijkstra 3d 2way
+UVa 10246 --- 2time floydwarshall
+UVa 10342 --- floydwarshall 3d
+UVa 10354 --- dijkstra track dijkstra
+UVa 10356 --- dijkstra 3d
+UVa 10472 +++ เข้าไม่ได้
+UVa 10603 +++ TLE dijkstra timeout
+UVa 10740 --- k shortestpath mem2d
+UVa 10806 --- dijkstra track dijkstra
+UVa 10986 --- basic dijkstra
+
+APSP: บางอันก็ Floyd บางอันก็ Warshall นะครับ
+UVa 125 ---floyd numberpath
+UVa 274 +++ dfs hardinput
+UVA 677 --- dfs
+UVa 869 --- easy floyd
+UVa 925 +++ dfs
+UVa 11463 --- F-W
+UVa 12319 --- 2FW 2 time
