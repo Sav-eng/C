@@ -1,0 +1,36 @@
+Send notification to one user
+$user->notify(new App\Notifications\SSNotification($notification))
+// you can import SSNotification and use like this
+$user->notify(new SSNotification($notification))
+
+Send notification to many user
+Notification::send($users, new App\Notifications\SSNotification($notification));
+// $users is an array of user
+
+
+// Actually relationship between user and notification is morphMany but i use this way because it's make more sense.
+
+See notification
+$user->notifications()->get() // see all notifications that user have // return as an array of notification
+$user->notifications()->get()[0] // see only first notification that user have
+
+See unread notifications
+$user->unreadNotifications()->get() // see all unreadNotifications // return as an array of notification
+$user->unreadNotifications()->get()[0] // see only first unreadNotifications
+
+See unread notifications
+$user->readNotifications()->get() // see all unreadNotifications // return as an array of notification
+$user->readNotifications()->get()[0] // see only first unreadNotifications
+
+Mark notification as read
+$user->unreadNotifications->markAsRead() // mark all unreadNotification
+$user->unreadNotifications()->update(['read_at' => now()]); // this also mark all unreadNotification
+$user->unreadNotifications()->get()[0]->markAsRead() // mark only first unreadNotification
+
+Assess data in notification
+$notification->type // return class of notification (in this example return App\Notifications\SSNotification)
+$notifications->data // return array that map data storing in notification ([
+     "text" => "textttt",
+     "link" => "www.youtube.com",
+   ])
+$notifications->delete(); // delete notification
